@@ -21,7 +21,7 @@ I'm a Software engineer with a passion for technology, game development and digi
 
 ## 💻 Projects
 
-Here are some of my notable projects in Python:
+Here are some of my notable projects:
 
 - [finalCapstone Project](https://github.com/kelnahas/finalcapstone) - A Python-based Task Manager
 - [Thunderbolt Unit](https://www.thunderboltunit.com) - A Mil-Sim Community Project for the Game Arma 3
