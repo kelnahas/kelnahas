@@ -4,7 +4,7 @@
 
 # Hello, World! 👋
 
-I'm a Software engineer with a passion for technology and digital security. Welcome to my GitHub profile!
+I'm a Software engineer with a passion for technology, game development and digital security. Welcome to my GitHub profile!
 
 ## 📚 About Me
 
